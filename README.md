@@ -3,7 +3,7 @@
 Steady-state thermodynamic models of two solar-driven heat engines:
 
 - **Organic Rankine Cycle (ORC)** with a regenerator (HXGR), for turning solar heat into
-  power. You can compare working fluids such as heptane and octane.
+  power. You can compare different inlet and outlet temps, efficiencies, and working fluids.
 - **Single-effect LiBr/H2O absorption chiller**, for turning solar heat into cooling.
   It is checked against the published model it is based on.
 
