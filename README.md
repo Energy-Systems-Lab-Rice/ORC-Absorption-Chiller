@@ -1,4 +1,4 @@
-# ORCSolarOld
+# ORC and Absorption Chiller
 
 Steady-state thermodynamic models of two solar-driven heat engines:
 
